@@ -1,4 +1,4 @@
-demo.exe
+*.exe
 .vscode
 c_cpp_properties.json
 tasks.json
